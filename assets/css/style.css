@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(email-pattern.png);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 #aboutMe {
     color: rgb(67 160 155);
@@ -10,16 +10,18 @@ body {
     border-bottom: solid lightgrey 5px;
     padding-bottom: 25px;
     padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 #myName {
     color: white;
-    background-color: rgb(67, 160, 155);
+    background-color: #4aaaa5;
     margin: 0 16%;
     padding: 15px;
     width: 250px;
     text-align: center;
     font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .container {
     width: 960px;
