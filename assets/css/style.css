@@ -25,15 +25,18 @@ body {
 }
 .container {
     width: 960px;
-    margin: 35px auto;
+    margin: 35px 16%;
     background-color: white;
     padding: 20px;
     border-radius: 5px;
     line-height: 30px;
     border: solid #dddddd 1px;
+    height: 500px
 }
 img {
-    border-radius: 15px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 15px;
 }
 
 header {
