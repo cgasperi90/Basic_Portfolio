@@ -9,7 +9,7 @@ body {
 }
 #navBar {
     background-color: #ffffff;
-    border-bottom: solid 5px #cccccc;
+    border-bottom: solid 3px #cccccc;
 }
 ul {
     position: absolute;
@@ -18,7 +18,7 @@ ul {
 }
 #myName {
     background-color: #4aaaa5;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     width: 250px;
     font-family: 'Times New Roman', Times, serif;
@@ -61,7 +61,7 @@ li {
 ul {
     list-style-type: none;
     margin: 0;
-    padding-top: 25px;
+    padding-top: 15px;
     padding-right: 25px;
     font-size: 20px;
     margin: 0 16%;
@@ -88,4 +88,16 @@ a:visited {
 #message {
     width: 98%;
     height: 200px;
+}
+a:hover {
+    color: #4aaaa5;
+}
+#about {
+    border-right: solid 1px grey;
+    padding-right: 10px;
+    margin: 0 auto;
+}
+#portfolio {
+    border-right: solid 1px grey;
+    padding-right: 10px;
 }
